@@ -1,9 +1,8 @@
 # Site settings
 title: My old Blog on LinkedIn
-author:
-  name: Priyanshu Mishra
+author name: Priyanshu Mishra
   email: mpriyanshu236@gmail.com
 description: "Learning to create great site using Jekyll on GH-Pages."
-  blog link: https://www.linkedin.com/in/priyanshu-mishra-68837511b/detail/recent-activity/posts/
+
 # Build settings
 remote_theme: jekyll/minima
